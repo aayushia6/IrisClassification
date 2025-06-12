@@ -21,7 +21,7 @@ This application allows users to enter sepal and petal measurements and receive 
   - Iris-setosa
   - Iris-versicolor
   - Iris-virginica
-- **Model Used**: (Specify, e.g., Logistic Regression / Random Forest / SVM)
+- **Model Used**:  Random Forest Classifier
 - **Preprocessing**: Label encoding for target, no scaling required
 
 ---
